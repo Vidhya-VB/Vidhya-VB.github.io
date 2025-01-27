@@ -3,7 +3,6 @@ cd Vidhya-VB.github.io
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,8 +13,7 @@ cd Vidhya-VB.github.io
     <section>
         <h2>Projects</h2>
         <ul>
-            <li><a href="https://github.com/Vidhya-VB/project1">Project 1</a></li>
-            <li><a href="https://github.com/Vidhya-VB/project2">Project 2</a></li>
+            <li><a href="https://github.com/Vidhya-VB/Projects">Projects </a></li>
         </ul>
     </section>
     <footer>
@@ -23,3 +21,6 @@ cd Vidhya-VB.github.io
     </footer>
 </body>
 </html>
+git add .
+git commit -m "Initial portfolio setup"
+git push origin main
